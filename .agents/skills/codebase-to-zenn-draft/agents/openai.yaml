@@ -1,0 +1,3 @@
+display_name: Codebase to Zenn Draft
+short_description: コードベースを Zenn 向け技術記事の構成案と初稿に変換します。
+default_prompt: コードベースを調査して記事化に値する切り口を見つけ、Zenn 向けの構成案とレビュー可能な初稿を作成してください。
