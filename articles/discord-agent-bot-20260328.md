@@ -1,5 +1,5 @@
 ---
-title: "DiscordからCodexCLIにタスクを依頼する"
+title: "DiscordからCodexCLIにタスクを依頼した結果をNotionで確認する"
 emoji: "📌"
 type: "tech"
 topics: ["llm", "自動化", "discord", "アーキテクチャ"]
